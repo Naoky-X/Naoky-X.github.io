@@ -1,0 +1,42 @@
+*{
+
+font-family : 'Montserrat', sans-serif;
+
+}
+
+
+
+
+
+body{
+
+ background-color: white;
+ line-height: 1.7;
+
+}
+
+.bg-primary{
+
+  background-color : rgb(79, 18, 18) !important;
+
+}
+
+#text-primary{
+
+  color: rgb(79, 18, 18);
+
+
+}
+
+img{
+
+    max-width: 70%;
+}
+
+.progress{
+
+  background-color: rgba(250,255,255,0.2);
+  border-radius: 20;
+  overflow: hidden; 
+
+}
